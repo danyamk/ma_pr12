@@ -22,5 +22,3 @@ jobs:
       
       - name: Push tag to Docker Hub
         run: docker push danyamk/ma-docs-service:latest
-
-
